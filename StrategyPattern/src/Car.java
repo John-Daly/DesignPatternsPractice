@@ -1,7 +1,7 @@
 public class Car {
 
     private String name;
-    public PowerUnit powerType;
+    private PowerUnit powerType;
 
     public String getName() {
         return name;
